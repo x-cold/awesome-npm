@@ -87,6 +87,10 @@ Collections for node.js.
 - xmlrpc
 - noice-json-rpc
 
+[数据通信]
+
+- [protobuf](https://github.com/google/protobuf/tree/master/js) - Google 数据通信协议
+
 ### 1.3 模板引擎
 
 - pug (jade)
@@ -242,25 +246,42 @@ Collections for node.js.
 
 ### 6.1 AI
 
-- ConvNetJS
-- deeplearnJS
+- [ConvNetJS](https://github.com/karpathy/convnetjs) - 卷积神经网络在浏览器的实现
+- [deeplearnJS](https://github.com/PAIR-code/deeplearnjs) - 浏览器下的支持硬件加速的深度学习库
 
 ### 6.2 并行计算
+
+- [gpu.js](https://github.com/gpujs/gpu.js/tree/develop)
+- [parallel.js](https://github.com/parallel-js/parallel.js) - 浏览器web workers & Node多进程
 
 ### 6.3 Iot
 
 ### 6.4 图像
 
-- jimp
-- node-opencv
-- open4node
+- [jimp](https://github.com/oliver-moran/jimp) - Node 图片读写、编辑库
+- [node-opencv](https://github.com/peterbraden/node-opencv) - 基于opencv 2.4，无法完美支持 3+
+- [opencv4node](https://github.com/justadudewhohacks/opencv4nodejs) - opencv 3+
 
-### 6.5 游戏
+### 6.5 Assembly
+
+- [emscripten](https://github.com/kripken/emscripten) - LLVM to JavaScript Compiler.
+- [compile-to-web](https://github.com/ChristianMurphy/compile-to-web) - Lang to LLVM & WASM Compiler.
+
+### 6.6 游戏
 
 ### 7. 调试
 
 ### 7.1 调试工具
 
+- [debug](https://github.com/visionmedia/debug) - 最好用的debug日志辅助工具.
+- [node-inspector](node-inspector) - Node debugger 和 Devtools结合的调试工具（PS：node v6.3+ 已内置）
+
 ### 7.2 web调试
+
+> 以下模块主要用于移动端，无F12 调试工具下的场景
+
+- [weinre](http://people.apache.org/~pmuellr/weinre/) - phonegap 时代的产物，WebView远程调试神器，不支持node v4+，使用时一般通过nvm先切换node版本；
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) - 页面远程调试 & 抓包工具，不支持node v4+
+- [vconsole](https://github.com/Tencent/vConsole) - 微信小程序推出的调试工具，直接内嵌在页面内，支持控制台、网络、系统信息.
 
 ### 8. 测试
