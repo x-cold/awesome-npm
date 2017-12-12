@@ -167,6 +167,7 @@ Collections for node.js.
 - clui - 仪表盘 / 进度 / Loading / 线图
 - figlet - Title
 - multispinner
+- qrcode-terminal - 控制台输出二维码
 
 [交互]
 - inquirer
@@ -272,7 +273,12 @@ Collections for node.js.
 - [emscripten](https://github.com/kripken/emscripten) - LLVM to JavaScript Compiler.
 - [compile-to-web](https://github.com/ChristianMurphy/compile-to-web) - Lang to LLVM & WASM Compiler.
 
-### 6.6 游戏
+### 6.6 NLP
+
+- [natural](https://github.com/NaturalNode/natural) - 自然语言处理工具，已支持中文
+- [jieba](https://github.com/yanyiwu/nodejieba) - 好用的中文分词工具
+
+### 6.7 游戏
 
 ### 7. 调试
 
