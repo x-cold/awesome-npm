@@ -202,11 +202,16 @@ Collections for node.js.
 
 ### 4.2 系统相关
 
+- [internal-ip](https://github.com/sindresorhus/internal-ip) - 获取IP地址
+- [ipp](https://github.com/williamkapke/ipp) - Internet 打印机协议
+
 ### 4.3 办公
 
 [excel]
 
-- xlsx
+- js-xlsx
+- node-xlsx
+- Node-Excel-Export
 
 [ppt]
 
