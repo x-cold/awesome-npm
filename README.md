@@ -1,4 +1,5 @@
 # awesome-nodejs
+
 Collections for node.js.
 
 ## 1. 后端开发
@@ -134,18 +135,18 @@ Collections for node.js.
 
 [博客]
 
-- ghost - 强大的博客系统
-- calypso - Wordpress Node版本
-- keystone - Mongodb的CMS
+- [ghost](https://github.com/TryGhost/Ghost) - 强大的博客系统
+- [calypso](https://github.com/Automattic/wp-calypso) - Wordpress Node版本
+- [keystone](https://github.com/keystonejs/keystone) - 基于 Mongodb 的 CMS
 
 [静态站点]
 
-- hexo - 静态博客生成器
-- gatsby - React 静态站点生成器
+- [hexo](https://github.com/hexojs/hexo) - 静态博客生成器，已被golang的hugo超越
+- [gatsby](https://github.com/gatsbyjs/gatsby) - React 静态站点生成器
 
 [论坛]
 
-- NodeBB - Node论坛系统
+- [NodeBB](https://github.com/NodeBB/NodeBB) - Node 论坛系统
 
 ## 2. 前端 & 无线开发
 
@@ -170,6 +171,7 @@ Collections for node.js.
 - qrcode-terminal - 控制台输出二维码
 
 [交互]
+
 - inquirer
 
 [账户配置]
@@ -272,6 +274,7 @@ Collections for node.js.
 
 - [emscripten](https://github.com/kripken/emscripten) - LLVM to JavaScript Compiler.
 - [compile-to-web](https://github.com/ChristianMurphy/compile-to-web) - Lang to LLVM & WASM Compiler.
+- [joy](https://github.com/matthewmueller/joy) - Go to Javascript compiler.
 
 ### 6.6 NLP
 
