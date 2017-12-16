@@ -260,9 +260,12 @@ Collections for node.js.
 ### 6.2 并行计算
 
 - [gpu.js](https://github.com/gpujs/gpu.js/tree/develop)
-- [parallel.js](https://github.com/parallel-js/parallel.js) - 浏览器web workers & Node多进程
+- [parallel.js](https://github.com/parallel-js/parallel.js) - 浏览器 web workers & Node多进程
 
 ### 6.3 Iot
+
+- [mqtt.js](https://github.com/mqttjs/MQTT.js) - MQTT 客户端，支持 node 和浏览器，是诸多 iot 库的基础设施
+- [Ruff](https://ruff.io/) - 物联网硬件操作系统 & 平台，通过 JavaScript 控制硬件设备
 
 ### 6.4 图像
 
