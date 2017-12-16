@@ -25,6 +25,7 @@ Collections for node.js.
 
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - 功能全面的http代理库
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - [http-proxy](https://github.com/nodejitsu/node-http-proxy) 中间件
+- [anyproxy](https://github.com/alibaba/anyproxy) - 可供插件配置的HTTP/HTTPS代理服务器
 
 [Mock]
 
@@ -155,6 +156,8 @@ Collections for node.js.
 ## 3. 命令行程序
 
 ### 3.2 推荐
+
+- [redis-dump](https://github.com/jeremyfa/node-redis-dump) - Node 版本的 redis-dump 
 
 ### 3.1 开发库
 
