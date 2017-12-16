@@ -126,10 +126,12 @@ Collections for node.js.
 
 ### 1.6 项目管理
 
-- forver
-- pm2
-- nodemon
-- supervisor
+[进程管理]
+
+- [forever](https://github.com/foreverjs/forever) - 顾名思义，让你的进程永远运行下去
+- [pm2](https://github.com/Unitech/pm2) - 支持热启动、负载、集群、监控、重启等功能
+- [nodemon](https://github.com/remy/nodemon) - 支持热加载和自动重启
+- [supervisor](https://github.com/petruisfan/node-supervisor) - 支持热加载和自动重启，较消耗内存
 
 ### 1.7 站点
 
