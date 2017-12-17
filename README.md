@@ -205,8 +205,8 @@ Collections for node.js.
 
 [时间处理]
 
-- moment
-- date-fns
+- [moment](https://github.com/moment/moment) - 重量级时间处理库，支持时间解析、格式化、计算等，功能强大，支持浏览器和 Node.js，压缩后体积约为 16.3 KB
+- [date-fns](https://github.com/date-fns/date-fns) - 较 moment 更轻量级的事件处理库，体积更小
 
 ### 4.2 系统相关
 
