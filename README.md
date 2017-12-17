@@ -235,6 +235,7 @@ Collections for node.js.
 
 ### 5.1 项目构建
 
+- [parcel](https://github.com/parcel-bundler/parcel) - 新一代打包工具，更快更容易配置
 - rollup
 - webpack
 - fis
@@ -288,6 +289,8 @@ Collections for node.js.
 
 - [natural](https://github.com/NaturalNode/natural) - 自然语言处理工具，已支持中文
 - [jieba](https://github.com/yanyiwu/nodejieba) - 好用的中文分词工具
+
+- [hubot](https://github.com/hubotio/hubot) - Github 的机器人框架
 
 ### 6.7 游戏
 
