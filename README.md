@@ -265,8 +265,9 @@ Collections for node.js.
 
 ### 6.2 并行计算
 
-- [gpu.js](https://github.com/gpujs/gpu.js/tree/develop)
+- [gpu.js](https://github.com/gpujs/gpu.js/tree/develop) - GPU 运算模块
 - [parallel.js](https://github.com/parallel-js/parallel.js) - 浏览器 web workers & Node多进程
+- [napajs](https://github.com/Microsoft/napajs) - 基于 V8 多线程运行时环境
 
 ### 6.3 Iot
 
