@@ -140,7 +140,11 @@ Collections for node.js.
 
 - [ghost](https://github.com/TryGhost/Ghost) - 强大的博客系统
 - [calypso](https://github.com/Automattic/wp-calypso) - Wordpress Node版本
+
+[CMS]
+
 - [keystone](https://github.com/keystonejs/keystone) - 基于 Mongodb 的 CMS
+- [directus](https://github.com/directus/directus) - 纯后台的 CMS 服务框架
 
 [静态站点]
 
@@ -256,6 +260,10 @@ Collections for node.js.
 - babel
 - marked
 
+#### API
+
+- [jsdoc](https://github.com/jsdoc3/jsdoc) - API 生成器，通过识别代码中的注释编译成 html 文档
+
 ## 6. 其他
 
 ### 6.1 AI
@@ -265,7 +273,7 @@ Collections for node.js.
 
 ### 6.2 并行计算
 
-- [gpu.js](https://github.com/gpujs/gpu.js/tree/develop)
+- [gpu.js](https://github.com/gpujs/gpu.js/tree/develop) - 浏览器 GPU 运算模块
 - [parallel.js](https://github.com/parallel-js/parallel.js) - 浏览器 web workers & Node多进程
 
 ### 6.3 Iot
