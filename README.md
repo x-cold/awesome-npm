@@ -44,7 +44,8 @@ Collections for node.js.
 
 [静态服务器]
 
-- serve-static
+- [serve-static](https://github.com/expressjs/serve-static) - 静态文件服务器
+- [http-server](https://github.com/indexzero/http-server) - 静态文件服务器命令行工具，无需配置，一条命令开启 http 服务
 
 [web 框架]
 
@@ -67,9 +68,9 @@ Collections for node.js.
 
 [同构]
 
-- Meteor
-- Next.js
-- Nuxt.js
+- [Meteor](https://github.com/meteor/meteor) - Node.js 全栈开发框架
+- [Next.js](https://github.com/zeit/next.js) - React 同构框架
+- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Vue 同构框架
 
 [无服务器]
 
