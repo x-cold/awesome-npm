@@ -74,8 +74,8 @@ Collections for node.js.
 
 [无服务器]
 
-- serverless
-- serverless-aliyun-function-compute
+- [serverless](https://github.com/serverless/serverless) - AWS 无服务器架构，支撑 AWS、Azure、Google Cloud 等相关服务
+- [serverless-aliyun-function-compute](https://github.com/aliyun/serverless-aliyun-function-compute) - 阿里云 serverless 框架
 
 [Real-Time]
 
