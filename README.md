@@ -79,7 +79,8 @@ Collections for node.js.
 
 [Real-Time]
 
-- socket.io
+- [socket.io](https://github.com/socketio/socket.io) - 强大的 WebSocket 框架
+- [ws](https://github.com/websockets/ws) - 轻量快速，易测试的 WebSocket 框架
 
 [RPC]
 
