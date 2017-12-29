@@ -49,10 +49,10 @@ Collections for node.js.
 
 [web 框架]
 
-- Express
-- Koa
-- fastify
-- connect
+- [Express](https://github.com/expressjs/express) - 可以说是使用最广泛的 Node.js web 框架
+- [Koa](https://github.com/koajs/koa) - express 原班人马打造，轻量精美的框架
+- [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速
+- [connect](https://github.com/senchalabs/connect) - 只提供中间件层的迷你框架
 
 - SailJS
 - Total.js
@@ -162,7 +162,7 @@ Collections for node.js.
 
 ### 3.2 推荐
 
-- [redis-dump](https://github.com/jeremyfa/node-redis-dump) - Node 版本的 redis-dump 
+- [redis-dump](https://github.com/jeremyfa/node-redis-dump) - Node 版本的 redis-dump
 
 ### 3.1 开发库
 
