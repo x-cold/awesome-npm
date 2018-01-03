@@ -354,15 +354,15 @@
 
 ### 7.1 调试工具
 
-- [debug](https://github.com/visionmedia/debug) - 最好用的debug日志辅助工具.
-- [node-inspector](node-inspector) - Node debugger 和 Devtools结合的调试工具（PS：node v6.3+ 已内置）
+- [debug](https://github.com/visionmedia/debug) - 最好用的 debug 日志辅助工具.
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Node debugger 和 Devtools 结合的调试工具（PS：node v6.3+ 已内置）
 
 ### 7.2 web调试
 
 > 以下模块主要用于移动端，无F12 调试工具下的场景
 
-- [weinre](http://people.apache.org/~pmuellr/weinre/) - phonegap 时代的产物，WebView远程调试神器，不支持node v4+，使用时一般通过nvm先切换node版本；
-- [spy-debugger](https://github.com/wuchangming/spy-debugger) - 页面远程调试 & 抓包工具，不支持node v4+
+- [weinre](http://people.apache.org/~pmuellr/weinre/) - phonegap 时代的产物，WebView 远程调试神器，不支持 node v4+，使用时一般通过nvm先切换node版本；
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) - 页面远程调试 & 抓包工具，不支持 node v4+
 - [vconsole](https://github.com/Tencent/vConsole) - 微信小程序推出的调试工具，直接内嵌在页面内，支持控制台、网络、系统信息.
 
 ## 8. 测试
