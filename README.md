@@ -157,13 +157,16 @@
 
 下面介绍的都是基于数据库驱动程序(如 mysql2, redis, mongodb, odbc 等)之上封装，足以直接应用在生产环境的客户端工具。
 
+[关系型]
+
 - [sequelize](https://github.com/sequelize/sequelize) - 一款支持 mysql, sqlite3, pg, msssql 的多功能 orm 库
 - [waterline](https://github.com/balderdashy/waterline) - Sail.js 默认的 orm 库，酷在其基于适配器，可以支持关系型 & 非关系型数据库，支持 mysql, sqlite3, pg, redis, mongodb
 - [knex](https://github.com/tgriesser/knex) - 一款灵活编写的 SQL 构建工具，被 Ghost 采用，支持 mysql, sqlite3, pg
 - [bookshelf](https://github.com/bookshelf/bookshelf) - 基于 knex 的上层 ORM 库，支持 mysql, sqlite3, pg
 
-- [mongoose](https://github.com/Automattic/mongoose) - 全能的 MongoDB ORM 库
+[其他]
 
+- [mongoose](https://github.com/Automattic/mongoose) - 全能的 MongoDB ORM 库
 - [ioredis](https://github.com/luin/ioredis) - 健硕全能的 redis 客户端工具
 
 ### 1.5 日志
