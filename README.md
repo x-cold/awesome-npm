@@ -96,26 +96,33 @@
 
 - [Express](https://github.com/expressjs/express) - 可以说是使用最广泛的 Node.js web 框架
 - [Koa](https://github.com/koajs/koa) - express 原班人马打造，轻量精美的框架
-- [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速
+- [fastify](https://github.com/fastify/fastify) - 提出 JSON Schema，使得序列化更快速，性能强大的框架
 - [connect](https://github.com/senchalabs/connect) - 只提供中间件层的迷你框架
 
-- SailJS
-- Total.js
+- [sails](https://github.com/balderdashy/sails) - 支持快速开发的 MVC 框架，Node 版 Rails
+- [total.js](https://github.com/totaljs/framework) - MVC 框架，提供了丰富的 CMS 案例
 
-- Thinkjs
+[企业框架]
+
+> 支持 Typescript
+
+- [egg](https://github.com/eggjs/egg) - 基于 Koa，强大的 loader / plugin 等机制，项目架构更清晰可控，阿里巴巴企业级应用框架
+- [nest](https://github.com/nestjs/nest) - 对标 Spring Boot 的企业级框架，提供了便利的装饰器
+- [thinkjs](https://github.com/thinkjs/thinkjs) - 参考 ThinkPHP，基于 Koa 的企业级应用框架，360 奇舞团团队支持
 
 [微服务]
 
-- Hapi
-- Feathers
-- Restify
-- Micro
+- [hapi](https://github.com/hapijs/hapi) - 一款极简的框架，常用于 API Gateway
+- [feathers](https://github.com/feathersjs/feathers) - 富有 Hook 特色的微服务框架
+- [restify](https://github.com/restify/node-restify) - 基于 connect，同时支持 Server / Client
+- [micro](https://github.com/zeit/micro) - 异步编程特色的微服务框架
 
 [同构]
 
 - [Meteor](https://github.com/meteor/meteor) - Node.js 全栈开发框架
 - [Next.js](https://github.com/zeit/next.js) - React 同构框架
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Vue 同构框架
+- [beidou](https://github.com/alibaba/beidou) - Egg / React 同构框架，性能强劲，支持客户端渲染降级
 
 [无服务器]
 
