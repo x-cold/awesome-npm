@@ -326,7 +326,7 @@
 ### 6.1 AI
 
 - [ConvNetJS](https://github.com/karpathy/convnetjs) - 卷积神经网络在浏览器的实现
-- <del>[deeplearnJS](https://github.com/PAIR-code/deeplearnjs) - 浏览器下的支持硬件加速的深度学习库</del>
+- <del>[deeplearnJS](https://github.com/PAIR-code/deeplearnjs) - 浏览器下的支持硬件加速的深度学习库，使用 tfjs 代替</del>
 - [tfjs](https://github.com/tensorflow/tfjs) - TensorFlow JS 版本，官方计划大力支持
 
 ### 6.2 并行计算
