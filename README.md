@@ -241,6 +241,10 @@ __Table of Contents__  *generated with *[DocToc](https://github.com/thlorenz/doc
 * [minimist](https://github.com/substack/minimist) - 标准命令行参数解析工具
 * [meow](https://github.com/sindresorhus/meow) - 功能丰富的命令行开发库，主要用于处理参数
 
+[其他]
+
+* [update-check](https://github.com/zeit/update-check) - 版本更新检查模块
+
 ## 4. 工具
 
 ### 4.1 Util
